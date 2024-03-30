@@ -2,7 +2,7 @@
 
 *Hola a todos! Mi nombre completo es **Nehuén André Bergamin Paszkaniak**, si, doble nombre y doble apellido, aunque usualmente solo utilizo el primer nombre y el primer apellido. Tengo 20 años y actualmente estoy cursando mi segundo año de la carrera.*
 
-[ IMAGEN ]
+![ IMAGEN ](/20230413_001942.jpg "Foto del 2023, tenia el pelo largo, despues de 4 años asi, este año volvi al pelo corto.")
 
 ## Transicion
 *Estudie toda la secundaria en un colegio **tecnico**, en la especialidad de **electronica**, y finalmente dado que alguna de las materias de los ultimos años te preparaban para programar en arduino, me empece a interesar e introducir en el mundo de la **programacion**. Hice un cursito de python hace 2 años, el curso de ingreso a la UTN y el año pasado aprobe 5 materias de 1ero.
